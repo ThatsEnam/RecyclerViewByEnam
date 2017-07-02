@@ -28,6 +28,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolderStuden
         View view = layoutInflater.inflate(R.layout.recycler_view, parent, false);
         MyViewHolderStudent myViewHolder = new MyViewHolderStudent(view);
         return myViewHolder;
+        //viewhodler jhgjhg
     }
 
     @Override
