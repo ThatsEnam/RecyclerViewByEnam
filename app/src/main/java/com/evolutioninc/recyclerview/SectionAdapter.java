@@ -20,7 +20,7 @@ public class SectionAdapter extends RecyclerView.Adapter<SectionAdapter.MyViewHo
     LayoutInflater layoutInflater;
     MyAdapter myAdapter;
 
-
+//hello dear
     public SectionAdapter(Context context, ArrayList<Section> sections) {
         this.sections = sections;
         this.context = context;
