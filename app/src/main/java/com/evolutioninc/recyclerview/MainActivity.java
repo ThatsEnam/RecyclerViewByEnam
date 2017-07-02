@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(manager);
         recyclerView.setAdapter(myAdapter);
+        //udated from gitHub
 
     }
 
