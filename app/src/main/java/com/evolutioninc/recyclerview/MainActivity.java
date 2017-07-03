@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(manager);
         recyclerView.setAdapter(myAdapter);
         //udated from gitHub
+        //edit from gk
 
     }
 
