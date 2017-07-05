@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         //udated from gitHub
         //edit from gk
 //test from enam
+        //tor pc te pull de
 
         //test
         //cha3mi test krci hoi na...ok
