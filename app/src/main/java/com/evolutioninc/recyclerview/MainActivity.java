@@ -27,6 +27,8 @@ public class MainActivity extends AppCompatActivity {
        /// bujlam na
 
         //test/// hoilo//
+        //dekhli moja na??hmm
+        // tor da thika hoi na? kn hoitace na??khara tipis na ...dektasi
         //cha3mi test krci hoi na...ok
 
     }
