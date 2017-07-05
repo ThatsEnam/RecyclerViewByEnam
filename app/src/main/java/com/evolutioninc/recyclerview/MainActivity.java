@@ -24,6 +24,9 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setAdapter(myAdapter);
         //udated from gitHub
         //edit from gk
+
+
+        //test
         //cha3mi test krci hoi na...ok
 
     }
