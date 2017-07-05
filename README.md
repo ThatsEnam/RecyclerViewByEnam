@@ -1,2 +1,2 @@
 # RecyclerViewByEnam
-This is an test repository. Import at your own risk.
+it is an experimental repository. Import at your own risk.
