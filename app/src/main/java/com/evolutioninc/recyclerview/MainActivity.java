@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         // tor da thika hoi na? kn hoitace na??khara tipis na ...dektasi
         //cha3mi test krci hoi na...ok
 
+        // thik ase.......kam suru kora lagbo...ekhn..
+
     }
 
     public ArrayList<Section> getData() {
